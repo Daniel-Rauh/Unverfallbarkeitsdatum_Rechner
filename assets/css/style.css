@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+article{
+    border: 2px solid #333;
+    width: 300px;
+    padding: 10px;
+}
+input{
+    display: block;
+    margin: 5px;
+}
